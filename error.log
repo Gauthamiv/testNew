@@ -1,0 +1,33 @@
+2018/05/22 16:20:14 error occurred or status code is not 200 Get https://api.github.com/repositories: dial tcp: lookup api.github.com: no such host
+2018/05/22 16:28:43 error is Get https://raw.githubusercontent.com/mojombo/grit/master/API.txt: read tcp 192.168.0.102:52507->151.101.0.133:443: wsarecv: An existing connection was forcibly closed by the remote host.
+2018/05/22 16:36:23 error is Get https://raw.githubusercontent.com/Gauthamiv/go-chassis/master/core/handler/loadbalance_handler.go: dial tcp: lookup raw.githubusercontent.com: no such host
+2018/05/22 16:37:22 error occurred or status code is not 200 Get https://api.github.com/users/gauthamiv/repos: dial tcp: lookup api.github.com: no such host
+2018/05/22 16:41:10 error occurred or status code is not 200 Get https://api.github.com/users/gauthamiv/repos: dial tcp: lookup api.github.com: no such host
+2018/05/22 17:28:05 error is Get https://raw.githubusercontent.com/Huawei/eSDK_EC_API_iOS/master/sample/UC_API_DEMO_CONF/ECConferenceDemo/Resource/public/icon_b_list_add_normal%402x.png: dial tcp: lookup raw.githubusercontent.com: no such host
+2018/05/22 18:01:46 error is&&&&&&&&&&&&&& read tcp 192.168.0.101:56016->151.101.0.133:443: wsarecv: An established connection was aborted by the software in your host machine.
+2018/05/22 18:01:46 error is Get https://raw.githubusercontent.com/Huawei/eSDK_TP_SDK_Windows_CPP/master/sample/eSDK_TP_ConferencesControl_CPP_Demo/eSDK_TP_Native_CPP_ConfCtrl_Demo.sln: dial tcp: lookup raw.githubusercontent.com: no such host
+2018/05/22 21:19:13 error occurred or status code is not 200 Get https://api.github.com/users/gauthamiv/repos: dial tcp: lookup api.github.com: no such host
+2018/05/22 21:19:16 error occurred or status code is not 200 Get https://api.github.com/users/gauthamiv/repos: dial tcp: lookup api.github.com: no such host
+2018/05/22 21:19:21 error occurred or status code is not 200 Get https://api.github.com/users/gauthamiv/repos: dial tcp: lookup api.github.com: no such host
+2018/05/22 21:20:45 error occurred or status code is not 200 Get https://api.github.com/users/gauthamiv/repos: dial tcp: lookup api.github.com: no such host
+2018/05/22 21:23:03 error is Get https://raw.githubusercontent.com/Gauthamiv/go-chassis/master/core/route/router.go: dial tcp: lookup raw.githubusercontent.com: no such host
+2018/05/22 21:26:19 error is Get https://raw.githubusercontent.com/Gauthamiv/go-chassis/master/core/loadbalance/latency_strategy.go: dial tcp: lookup raw.githubusercontent.com: no such host
+2018/05/22 21:33:51 error is Get https://raw.githubusercontent.com/Gauthamiv/go-chassis/master/core/archaius/key_generator.go: dial tcp: lookup raw.githubusercontent.com: no such host
+2018/05/22 21:42:24 error is Get https://raw.githubusercontent.com/Huawei/dockyard/master/docs/_includes/custom/usermapcomplex.html: dial tcp: lookup raw.githubusercontent.com: no such host
+2018/05/22 21:44:42 error is Get https://raw.githubusercontent.com/Gauthamiv/go-chassis/master/core/registry/util_test.go: dial tcp: lookup raw.githubusercontent.com: no such host
+2018/05/22 21:46:01 error is Get https://raw.githubusercontent.com/Gauthamiv/go-chassis/master/core/handler/handler_test.go: dial tcp: lookup raw.githubusercontent.com: no such host
+2018/05/22 22:01:19 error occurred or status code is not 200 Get https://api.github.com/users/gauthamiv/repos: dial tcp 192.30.253.117:443: i/o timeout
+2018/05/22 22:02:15 error occurred or status code is not 200 Get https://api.github.com/users/gauthamiv/repos: dial tcp 192.30.253.117:443: i/o timeout
+2018/05/23 12:46:05 error is Get https://raw.githubusercontent.com/Huawei/eSDK_EC_API_Windows_C/master/sample/eSDK_TUP_PC_Demo/TUPSDKPCDemo/TUPSDKPCDemo.aps: dial tcp 151.101.152.133:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2018/05/23 12:51:06 error occurred or status code is not 200 Get https://api.github.com/users/gauthamiv/repos: dial tcp 192.30.253.117:443: i/o timeout
+2018/05/23 15:22:16 error occurred or status code is not 200 Get https://api.github.com/users/gauthamiv/repos: dial tcp 192.30.253.116:443: i/o timeout
+2018/05/23 16:08:26 error occurred or status code is not 200 Get https://api.github.com/users/gauthamiv/repos: dial tcp 192.30.253.117:443: i/o timeout
+2018/05/23 16:10:06 error is Get https://raw.githubusercontent.com/Gauthamiv/go-chassis/master/core/config/schema/loader_test.go: dial tcp 151.101.8.133:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2018/05/23 16:21:21 error occurred or status code is not 200 Get https://api.github.com/users/gauthamiv/repos: dial tcp: lookup api.github.com: no such host
+2018/05/23 16:21:45 error occurred or status code is not 200 Get https://api.github.com/users/gauthamiv/repos: dial tcp: lookup api.github.com: no such host
+2018/05/23 16:22:42 error occurred or status code is not 200 Get https://api.github.com/users/gauthamiv/repos: dial tcp 192.30.253.116:443: i/o timeout
+2018/05/23 17:19:49 error is&&&&&&&&&&&&&& read tcp 192.168.0.102:50725->151.101.0.133:443: wsarecv: An established connection was aborted by the software in your host machine.
+2018/05/23 17:19:49 error is Get https://raw.githubusercontent.com/Huawei/eSDK_TP_SDK_Windows_CPP/master/sample/eSDK_TP_Login_CPP_Demo/eSDK_TP_Native_CPP_Demo/Release/eSDK_TP_Native_CPP_Login_Demo.write.1.tlog: dial tcp: lookup raw.githubusercontent.com: no such host
+2018/08/16 15:52:30 error occurred or status code is not 200 <nil>
+2018/08/16 15:54:21 error occurred or status code is not 200 401
+2018/08/16 15:58:52 UnAuthorized
